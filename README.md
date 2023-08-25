@@ -8,9 +8,11 @@ Key Fetures:
 4. Search and Filters:
   a. Employees can be searched and filtered based on various criteria such as name, department, or designation.
   b. This feature makes it easy to locate specific employees within a large dataset.
+
 5.User-Friendly Interface:
   a. The user interface is designed using CSS and JavaScript to provide an intuitive and aesthetically pleasing experience.
   b. Responsive design ensures usability across various devices and screen sizes.
+
 6.Database Integration:
   a. The application uses JDBC to connect to a MySQL database managed with MySQL Workbench.
   b. Employee data, user credentials, and other relevant information are stored securely in the database.
