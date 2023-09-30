@@ -1,7 +1,7 @@
 # Employee-management-app
 The Employee Management System is a web-based application designed to streamline and simplify the process of managing employee information, their roles, and related data within an organization. The application follows the Model-View-Controller (MVC) architectural pattern to ensure a well-structured, maintainable, and extensible codebase.
 
-# Screen Shots
+# Screenshots
 <img width="1000" alt="Blank 4 Grids Collage" src="https://github.com/nam-dpatil/Employee-management-app/assets/119349972/d90bb0b7-3c09-47a4-a7f2-77415f16c852">
 
   
